@@ -1,19 +1,18 @@
 .btn {
-    margin: 10px;
+    color: black;
     height: 50px;
     width: 100px;
-    background-color: black;
-    border-radius: 5px;
-    color: white;
     font-size: 20px;
+    margin: 5px;
 }
 
-.btn.red{
-    background-color: red;
+.btn.black{
+    background-color: black;
+    color: white;
 }
 
-.btn.pink{
-    background-color: pink;
+.btn.white{
+    background-color: white;
     color: black;
 }
 
@@ -22,13 +21,12 @@
     color: black;
 }
 
-.btn.green{
-    background-color: lime;
-    color: black;
+.btn.red{
+    background-color: red;
 }
 
-.btn.purple{
-    background-color: darkorchid;
+.btn.gold{
+    background-color: goldenrod;
 }
 .btn.blue{
     background-color: deepskyblue;
